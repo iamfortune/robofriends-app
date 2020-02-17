@@ -33,7 +33,9 @@ class App extends Component {
                 <div className='tc'>
                 <h1 className='f2'>Robofriends</h1>
                 <SearchBox searchChange={this.onSearchChange}/>
+                <scroll>
                 <CardList robots={ filteredRobots } />
+                </scroll>
                 </div>
             );
     
