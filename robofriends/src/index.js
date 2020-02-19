@@ -6,7 +6,7 @@ import App from './containers/App';
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 import { robots } from './robots';
-// import SearchBox from '../components/SearchBox';
+
 
 ReactDOM.render(
               <App/>, document.getElementById('root'));
