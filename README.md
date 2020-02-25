@@ -13,3 +13,6 @@
 - run npm start (this is to set up project in your browser)
 - run npm build 
 - happy hacking/contribution
+
+## Deploys
+- a working version of this app is hosted on netlify https://kays-robot-friends.netlify.com/
